@@ -1,4 +1,4 @@
-package com.shrey.learning.learning_integration_testing;
+package com.shrey.learning.it;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
